@@ -6,7 +6,8 @@ const seedInput = document.querySelector('#seed_input');
 const updateButton = document.querySelector('#update_button');
 const crashesCount = document.querySelector('#crashes_count');
 
-const blockHash = "0000000000000000001b34dc6a1e86083f95500b096231436e9b25cbdd0075c4";
+// const blockHash = "0000000000000000001b34dc6a1e86083f95500b096231436e9b25cbdd0075c4";
+const blockHash = "000000000000000000066448f2f56069750fc40c718322766b6bdf63fdcf45b8";
 
 const amountInput = document.querySelector('#amount_input');
 const goodValueInput = document.querySelector('#good_value_input');
